@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --font-Ubuntu: "Ubuntu Mono", monospace;
+    --font-Roboto: "Roboto", sans-serif;
+    --font-Google: "Google Sans", sans-serif;
+    --font-Inter: "Inter", sans-serif;
+    --font-Playfair: "Playfair Display", serif;
+}
+
